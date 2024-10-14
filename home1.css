@@ -1,0 +1,43 @@
+.nav{
+    padding: 20px;
+    display: flex;
+    justify-content:space-between;
+
+}
+.fim{
+    padding: 250px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: #F8A764;
+    
+}
+.prof{
+    background-color: #F5E0A5;
+    height: 100%;
+    width: 50%;
+    padding: 20px;
+    margin: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+.corpo{
+    gap: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column ;
+    padding-top: 40px;
+    padding: 34px;
+    height: 60%;
+    width: min-content;
+    margin: 10px;
+
+}
+.pessoa{
+    border-radius: 100px;
+    width: 50px;
+}
