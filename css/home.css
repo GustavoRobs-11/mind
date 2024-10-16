@@ -133,10 +133,7 @@ p{
 .next:hover {
     background-color: #58ffc2;
 }
-.logo_size {
-    height: 10%;
-    width: 10%;
-}
+
 
 nav .nav-item{
     color: black;
@@ -215,4 +212,12 @@ nav .nav-item:hover{
     display: flex;
     justify-content: end;
     align-items: end;
+}
+.botao_logo{
+    height: 10%;
+    width: 10%;
+}
+.logo_size {
+    height: 100%;
+    width: 100%;
 }

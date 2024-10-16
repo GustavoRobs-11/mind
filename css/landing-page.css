@@ -55,12 +55,6 @@ body, html {
     cursor: pointer;
 }
 
-.cont-nav {
-    display: flex;
-    padding-left: 6%;
-    justify-content: flex-end;
-}
-
 
 .btn-orange {
     font-size: 12px;
@@ -83,20 +77,6 @@ body, html {
 .to_right {
     display: flex;
     justify-content: right;
-}
-
-.logo_size {
-    height: 10%;
-    width: 10%;
-}
-
-nav .nav-item{
-    color: black;
-
-}
-nav .nav-item:hover{
-    color: rgb(117, 117, 117);
-
 }
 
 .back-img-main{
@@ -229,4 +209,20 @@ nav .nav-item:hover{
     display: flex;
     justify-content: center;
 }
+.filtro{
+    font-size: 12px;
+    font-family: 'chillax';
+    font-weight: bold;
+    padding: 0.5em 2em;
+    margin: 0.25em;
+    border-radius: 0.8em;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: #1C5841;
+    cursor: pointer;
+}
 
+.filtro:hover {
+    background-color: #58ffc2;
+}
