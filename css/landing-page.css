@@ -226,3 +226,8 @@ body, html {
 .filtro:hover {
     background-color: #58ffc2;
 }
+.imagem{
+    width: 100%;
+    height: 800px;
+    
+}
