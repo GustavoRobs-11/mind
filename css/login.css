@@ -4,7 +4,7 @@
     position:absolute ;
     top: 50%;
     left: 70%;
-    transform: translate(-30%, -50%);
+    transform: translate(-50%, -10%);
     width: 600px;
     height: 400px;
     padding: 30px;
@@ -141,6 +141,8 @@ nav .nav-item:hover{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    flex-wrap: nowrap;
+    align-items: center;
 }
 .botao_logo{
     height: 10%;

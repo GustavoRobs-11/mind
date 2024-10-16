@@ -89,6 +89,7 @@ nav .nav-item:hover{
     width: 10%;
 }
 .navbar{
+    padding: 10px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
