@@ -53,8 +53,10 @@
 .cadastrar{
     display: flex;
     justify-content: end;
-    padding-right: 20%;
-    padding-top: 20px;
+    padding-right: 15%;
+    padding-top: 40px;
+    align-items: center;
+    gap: 30px;
 }
 .psicologo{
     font-size: 12px;
